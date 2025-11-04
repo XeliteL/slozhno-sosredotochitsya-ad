@@ -256,7 +256,8 @@
 
   .header__theme-menu {
     align-self: end;
-    padding-block-end: 10px;
+    margin-block-start: 0;
+    padding-block-end: 20px;
   }
 
   .page__title::before {
@@ -273,7 +274,7 @@
     padding-block-start: 10px;
   }
 
-  .page__subtitle {
+  .header__subtitle {
     width: 364px;
   }
 
