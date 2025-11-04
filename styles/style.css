@@ -230,7 +230,7 @@
 }
 
 .footer__title {
-  text-shadow: 2px 2px var(--accent-color, #ff0070);
+  text-shadow: 2px 2px #ff0070;
 }
 
 @media (width >= 768px) {

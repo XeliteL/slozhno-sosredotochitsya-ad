@@ -53,3 +53,9 @@
   border-bottom: 1px solid var(--text-color, #353430);
   border-left: 1px solid var(--text-color, #353430);
 }
+
+@media (width < 1024px) {
+  .theme-light .footer__title {
+    text-shadow: 2px 2px var(--accent-color, #ff8dcb);
+  }
+}
